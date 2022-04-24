@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Me segue nas redes abaixo!
+  ### Pode me contatar nas redes abaixo!
  
 <div> 
     <a href="https://instagram.com/igorcesaroliver" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
